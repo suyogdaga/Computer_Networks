@@ -2,7 +2,7 @@
 Internet Chat Application
 
 CNT5106 Computer Networks : Internet Chat Application
-                            **************************************************************
+
 Created by: Avinash Iyer and Suyog Daga
 
 This is an Internet Chat Application developed in Java language, using Eclipse IDE.
